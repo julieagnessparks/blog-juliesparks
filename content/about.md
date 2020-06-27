@@ -6,15 +6,26 @@ aliases = ["about-us","contact"]
 author = "Julie Sparks"
 +++
 
+Julie Agnes is a Security Engineer that focuses on Detection & Response at [Cloudflare](https://cloudflare.com).
 
-I'm Julie Sparks and a current Security Engineer at Cloudflare.
+By day, she works on all things related to SIEM, SOAR, and other fun security acronyms while balancing much of the [glue work](https://noidea.dog/glue) that enables effective cross-functional collaboration. She is focused on raising up other women so they feel comfortable pursuing education and careers in tech. She is interested in the interdisciplinary nature of security especially as it touches disinformation networks, privacy, transparency, and inclusion. In addition to her professional work, Julie Agnes focuses on learning new things, buying copious amounts of books, traveling to new places, and taking time to connect with nature.
 
-I'm an avid reader. Many of my interests relate to travel, cybersecurity, economics and history (of most periods). I'm always looking to meet new people & learn new things. Currently working on using data science for large scale historical analysis, taking workshops on reverse engineering malware, and building out my own website (yes, this one).
+She is currently located in Denver, Colorado with the plan to relocate to Austin, Texas.
 
-**Favorite Conference**: Women in Cybersecurity ([WiCys](https://www.wicys.org/))
+For additional information, or if you want to do a coffee chat, please reach out!
 
-**Favorite Book**: [How we Survived Communism and Even Laughed](https://www.amazon.com/How-Survived-Communism-Even-Laughed/dp/0060975407) by Slavenka Drakulic
+My Top [Strengths](https://www.gallup.com/cliftonstrengths/en/252137/home.aspx).
 
-**Favorite Quote**: “Your days are numbered. Use them to throw open the windows of your soul to the sun. If you do not, the sun will soon set, and you with it.” - Marcus Aurelius
+* Input
+* Includer
+* Learner
+* Harmony
+* Intellection
 
-**Favorite Poem**: [O Me! O Life!](https://www.poetryfoundation.org/poems/51568/o-me-o-life) by Walt Whitman
+My Guiding Principles.
+
+* To work for a company that has values which align with mine.
+* To create significant impact that improves my Security Team.
+* To promote security as a shared responsibility across all departments and where curiosity and outreach are welcomed.
+* To spend a portion of my time learning new things across a range of security and non-security focused topics.
+* To prioritize clear communication and documentation in order to encourage collaboration.
