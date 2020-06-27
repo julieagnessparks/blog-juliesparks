@@ -5,6 +5,10 @@ workers_dev = false
 route = "juliesparks.io/*"
 zone_id = "160f16f67ee5848927de37d4ba098b69"
 
+[env.staging]
+name = "staging"
+route = "staging.juliesparks.io/*"
+
 [site]
 bucket = "public"
 entry-point = "workers-site"
