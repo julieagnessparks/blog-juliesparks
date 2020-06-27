@@ -1,0 +1,10 @@
+name = "blog-juliesparks"
+type = "webpack"
+account_id = "d09373229097573cbaf4beb7ca531ac2"
+workers_dev = false
+route = "juliesparks.io/*"
+zone_id = "160f16f67ee5848927de37d4ba098b69"
+
+[site]
+bucket = "public"
+entry-point = "workers-site"
